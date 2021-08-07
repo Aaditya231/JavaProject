@@ -7,6 +7,10 @@ This is a desktop application made with JavaFX as front-end and MySQL as back-en
 [mySQL](https://en.wikipedia.org/wiki/MySQL "MySQL")
 ### Languages Used ###
 JAVA
+## Prerequisites ##
+* JDK(any version may suffice, preferably 16)
+* Xampp and Run MySQL
+* Any IDE
 ## What it does? ##
 It helps any newspaper agency manage it's everyday operations efficiently through a desktop application that is easy to use. Now some of those everyday operations may include -
 * Managing Newspapers available and their prices
@@ -22,7 +26,6 @@ Open the Dashboard package and run the main.java file in it.
 
 ![picture alt](https://github.com/PreshJindal/JavaProject/blob/master/snaps/workspace.png )
 
-***Note : You may need to power up your xampp for running the application***
 
 ## How It Works? ##
 
