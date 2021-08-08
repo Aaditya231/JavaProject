@@ -76,6 +76,6 @@ This tab wiill show all the bill details - Bills that have been paid(Status 1), 
 This tab shows details of all the cutomers in one place which can also be filtered using paper ComboBox and area ComboBox.
 
 # To Do Things #
-* Fix minor Bugs
-* include a login page that appears before the DashBoard
+* ~~Fix minor Bugs~~
+* ~~include a login page that appears before the DashBoard~~
 * Include a .exe file for easy running of the application
