@@ -31,6 +31,9 @@ Open the Dashboard package and run the main.java file in it.
 
 ![picture alt](https://github.com/PreshJindal/JavaProject/blob/master/snaps/DashBoard.PNG)
 
+
+**NOTE** In the newest version, Before opening the app, you are also presented with a Login Page which was added for additional security of the application. So to access the app you need to enter username : admin and password as : admin
+
 After running the Main.java file, this is what you are presented with. In this you will find different buttons leading to different dialog boxes each performing a unique task. We will now disuss each of these in detail i.e. what they do and how they do it.
 
 ## 1. Paper Master ##
