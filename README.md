@@ -16,7 +16,7 @@ It helps any newspaper agency manage it's everyday operations efficiently throug
 * Managing Newspapers available and their prices
 * Managing hawkers Delivering NewsPapers
 * Managing Hawker Details.
-* Managing Customer Details
+* Managing Customer Details.
 * Managing Bills.
 ## Install And Run Guide ##
 ### Step 1 ###
