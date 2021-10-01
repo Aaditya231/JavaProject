@@ -41,7 +41,7 @@ After running the Main.java file, this is what you are presented with. In this y
 
 This was specifically built for ease of management of papers available and their rates. From this tab, One can easily manage all the papers available for sale and their rates. All the data that is feeded into this goes to a table in mySQL from which the data can then be updated, removed and fetched. New papers can also be added by just a click of a button 'SAVE' . Fetching of data will occur automatically and the rates will also appear once a paper is selected from the comboBox. The comboBox was made editable so that new papers can be added by typing in their name.
 
-## 2. Hawker Manager ##
+## 2. Hawker Manager. ##
 ![picture alt](https://github.com/PreshJindal/JavaProject/blob/master/snaps/HawkerManager.PNG)
 
 Managing Hawkers has never been easier . From this tab, One can easily manage the hawkers working for them. By simply typing in or selecting the available names from the comboBox , all the details of that particular hawker can be fetched from the table , and any detail can also be changed easily. Also as we know one Hawker may not serve only one area but possibly several based on the requirement , therefore multiple areas can be selected from the area ComboBox (this is auto-updated and fetches values that were filled in paperMaster tab) and they will start appearing with , seperating them in textfield SelectedAreas. Name has been set as primary key in the database table so that it is easier for the admin to identify any hawker. An image of hawker can also be uploaded from local machine and during fetch operation, this image gets autoSet as the path of image gets saved in the database.
