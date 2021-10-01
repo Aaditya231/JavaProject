@@ -17,7 +17,7 @@ It helps any newspaper agency manage it's everyday operations efficiently throug
 * Managing hawkers Delivering NewsPapers
 * Managing Hawker Details
 * Managing Customer Details
-* Managing Bills
+* Managing Bills.
 ## Install And Run Guide ##
 ### Step 1 ###
 After getting this project into your machine, import the project into eclipse or any other ide that you have.
