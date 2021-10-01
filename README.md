@@ -15,9 +15,9 @@ JAVA
 It helps any newspaper agency manage it's everyday operations efficiently through a desktop application that is easy to use. Now some of those everyday operations may include -
 * Managing Newspapers available and their prices
 * Managing hawkers Delivering NewsPapers
-* Managing Hawker Details.
-* Managing Customer Details.
-* Managing Bills.
+* Managing Hawker Details
+* Managing Customer Details
+* Managing Bills
 ## Install And Run Guide ##
 ### Step 1 ###
 After getting this project into your machine, import the project into eclipse or any other ide that you have.
