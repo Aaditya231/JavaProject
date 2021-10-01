@@ -56,7 +56,7 @@ This tab was built was specific use of customers cum admin. Any new Customer can
 
 This tab generates the bill that is to be paid by the customer. After typing in the customer Mobile number ( which was set as primary key) , Their corresponding Date of Start will be fetched from the table and after selecting the UptoDate, per day Price will appear in total Price textField. Clicking on generate Total bill will produce the amount payable by the customer. Note : this tab is only for generating total bill and saving that bill in table with status 0.
 Status 0 : Means bill is not yet Paid.
-Status 1 : Bill payed 
+Status 1 : Bill payed .
 
 ## 5. Bill Collector ##
 ![picture alt](https://github.com/PreshJindal/JavaProject/blob/master/snaps/BillCollector.PNG)
